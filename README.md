@@ -1,4 +1,4 @@
-# Progresso da traducao
+# Progresso da tradução
 
 ### R Programming
 

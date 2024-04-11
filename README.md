@@ -18,7 +18,7 @@
 - [ ] 14: Dates and Times         
 - [ ] 15: Base Graphics 
 
-A seguir, README original:
+**A seguir, README original:**
 
 ---
 

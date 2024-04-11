@@ -1,3 +1,27 @@
+# Progresso da traducao
+
+### R Programming
+
+- [ ] 1: Basic Building Blocks      
+- [ ] 2: Workspace and Files     
+- [ ] 3: Sequences of Numbers       
+- [ ] 4: Vectors                 
+- [ ] 5: Missing Values             
+- [ ] 6: Subsetting Vectors      
+- [ ] 7: Matrices and Data Frames   
+- [ ] 8: Logic                   
+- [ ] 9: Functions                 
+- [ ] 10: lapply and sapply       
+- [ ] 11: vapply and tapply       
+- [ ] 12: Looking at Data         
+- [ ] 13: Simulation                
+- [ ] 14: Dates and Times         
+- [ ] 15: Base Graphics 
+
+A seguir, README original:
+
+---
+
 # swirl courses
 
 This is a collection of interactive courses for use with the [swirl R package](http://swirlstats.com). You'll find instructions for installing courses further down on this page. Some courses are still in development and we'd love to hear any [suggestions](https://github.com/swirldev/swirl_courses/issues/new) you have as you work through them.
